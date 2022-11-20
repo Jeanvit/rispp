@@ -4,15 +4,19 @@ This started as an actual experiment I decided to make a while ago. The experime
 
 # The code
 
-It's  everything on the notebook, just run `pip3 install -r requirements.txt`. You could use your own model and images. Check it out!
+It's  everything on the `ispp.ipynb` notebook. Run `pip3 install -r requirements.txt` to install needed packages.
 
-# Some results
+You could use your own model and images. Check it out!
+
+# Results
 
 ![Screenshot](https://i.imgur.com/bcbdFuh.png)
 
+---
 
 ![Screenshot](https://i.imgur.com/xUUDtMu.png)
 
+---
 
 ![Screenshot](https://i.imgur.com/X9PUMPh.png)
 
